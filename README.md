@@ -11,6 +11,11 @@ Para alcançar nosso objetivo, adotamos uma abordagem metodológica robusta e es
 Para o pré-processamento de Dados em seguida, realizamos uma etapa de pré-processamento para limpar e preparar os dados. Isso inclui a remoção de valores ausentes, a normalização de dados e a codificação de variáveis categóricas. A engenharia de Recursos para novos recursos (features) com base nos dados existentes, a fim de melhorar a eficácia do nosso modelo de previsão de churn. Isso envolve a identificação de padrões, tendências e insights relevantes nos dados. Os modelos de Machine Learning são vários modelos de machine learning, como árvores de decisão, regressão logística, redes neurais e outros, para prever o churn dos clientes. Avaliamos a precisão e o desempenho de cada modelo para selecionar o mais eficaz.
 O treinamento e validação dados em conjuntos de treinamento e validação para treinar e testar nossos modelos. Ajustamos os hiperparâmetros e usamos técnicas de validação cruzada para evitar overfitting. A análise de dados previsão de churn, conduzimos uma análise de dados abrangente para identificar os principais impulsionadores do churn. Isso ajuda a empresa a tomar medidas proativas para melhorar a retenção de clientes.
 
+## Base dados 
+
+Dataset Churn telco customer
+[Base_dados](https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data)
+
 # Descrição projeto
 
 Texto 1
