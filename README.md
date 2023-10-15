@@ -5,8 +5,6 @@
 A previsão de churn é uma análise e um processo utilizado por empresas para estimar quais clientes ou assinantes provavelmente deixarão de utilizar seus produtos ou serviços em um período futuro. O termo "churn" refere-se à taxa de rotatividade de clientes, ou seja, a taxa na qual os clientes cancelam ou encerram seus contratos, deixam de fazer compras ou deixam de usar os produtos ou serviços de uma empresa. A previsão de churn é importante para as empresas, uma vez que a aquisição de novos clientes geralmente é mais dispendiosa do que a retenção de clientes existentes.As empresas empregam diversas técnicas e ferramentas para prever o churn. A retenção de clientes é uma das métricas cruciais para o sucesso de qualquer empresa. A perda de clientes, conhecida como "churn", pode ter um impacto significativo nos lucros e na reputação da empresa. Para combater esse problema, a aplicação de técnicas de aprendizado de máquina (machine learning) se tornou uma estratégia valiosa. 
 Este projeto tem como objetivo desenvolver um modelo de previsão de churn e realizar uma análise de dados abrangente como parte de um pipeline de negócios.
 
-## Previsão de churn 
-
 A) Histórico de comportamento do cliente: Analisar o comportamento passado do cliente, como a frequência de compras, interações com a empresa, feedbacks, entre outros.
 
 B) Dados demográficos e perfis de clientes: Considerar informações demográficas, como idade, sexo, localização geográfica, bem como dados comportamentais, para identificar grupos de clientes mais propensos ao churn.
