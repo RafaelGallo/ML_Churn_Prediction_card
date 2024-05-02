@@ -1,4 +1,4 @@
-# Machine learning Churn Prediction Telecon
+# Machine learning Churn Prediction card
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
@@ -26,8 +26,8 @@
 [![](https://img.shields.io/badge/Scikit_Learn-green.svg)](https://scikit-learn.org/stable/)
 [![](https://img.shields.io/badge/Numpy-white.svg)](https://numpy.org/) 
 
-# Descrição projeto Churn Telecon
 ## Problema de Negócio: Churn de Cartões de Crédito e Aplicação de Machine Learning de Classificação
+
 O churn de cartões de crédito é uma preocupação constante para as instituições financeiras, pois a perda de clientes pode resultar em uma diminuição significativa da receita e na perda de participação de mercado. Diante desse desafio, as empresas buscam compreender os fatores que levam os clientes a encerrarem seus cartões de crédito e desenvolver estratégias eficazes para prevenir o churn. Uma abordagem promissora para lidar com o churn de cartões de crédito é a aplicação de técnicas de machine learning de classificação. Essas técnicas permitem prever se um cliente é propenso a cancelar seu cartão de crédito com base em uma variedade de variáveis, como histórico de transações, comportamento de pagamento, interações com o serviço ao cliente e informações demográficas.
 
 A aplicação de machine learning de classificação no contexto do churn de cartões de crédito envolve várias etapas. Primeiro, é necessário coletar e preparar os dados relevantes para a modelagem, garantindo que eles estejam limpos, completos e prontos para análise. Isso pode envolver a integração de dados de várias fontes, a seleção de características relevantes e a codificação de variáveis categóricas.
